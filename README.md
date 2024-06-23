@@ -21,11 +21,5 @@ Methodology
 
 
 Hardware:
-Quantity	Component
-1	Arduino Uno R3
-1	Positional Micro Servo
-3	Jumper Wires
-1	Wooden house
-1	Wooden base
-1	USB Cable
+<img width="584" alt="image" src="https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/6417309d-3698-4eec-afd8-2956333ae2be">
 
