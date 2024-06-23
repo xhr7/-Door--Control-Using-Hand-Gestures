@@ -28,9 +28,4 @@ Quantity	Component
 1	Wooden house
 1	Wooden base
 1	USB Cable
-	 
-![image](https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/a652fd6b-c5cd-4ae0-8487-b7cfa289bb8c)
-
-
-
 
