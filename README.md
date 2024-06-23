@@ -13,7 +13,9 @@ Introduction
 
 In This project we have developed a door control system using hand gestures and servo motors, The traditional methods of door control often involve physical contact or the use of buttons or switches. However, by leveraging advancements in computer vision, gesture recognition, and servo motor technology, this project seeks to provide a touchless and intuitive way of controlling doors, and our project is designed to provide a touchless and hygienic way of controlling doors, making it suitable for various environments, including public spaces, commercial buildings, or homes. It offers convenience and ease of use, as users can simply perform a hand gesture to open or close the door without the need for physical contact or manual operation.
 
-![image](https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/01c12e96-6dff-433b-b8cd-0c179d7ee686)
+Methodology
+<img width="420" alt="image" src="https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/8ebe3aac-6141-4bcd-8217-43fbe7ed4dea">
+
 
 
 
