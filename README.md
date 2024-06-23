@@ -21,5 +21,7 @@ Methodology
 
 
 Hardware:
+
+
 <img width="584" alt="image" src="https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/6417309d-3698-4eec-afd8-2956333ae2be">
 
