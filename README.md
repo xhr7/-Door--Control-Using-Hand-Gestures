@@ -42,5 +42,5 @@ Modules and libraries used in Arduino IDE:
 -	Wire
 -	Firmata
 
-![image](https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/a661a30d-51cb-4e74-ae7d-53352f43565d)
+
 
