@@ -1,5 +1,9 @@
 #  Door Control Using Hand Gestures
 
+
+https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/95c2fb12-724e-4ed6-8683-7f102ea64e3a
+
+
 Abstract:
 
 the servo angle mechanism for opening and closing doors offers a promising solution for automating door operations. Its ability to provide precise control, remote accessibility, and enhanced safety makes it a compelling choice for various applications. Further research and development in this field can lead to advancements in automated door systems, improving convenience and accessibility in everyday life.
