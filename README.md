@@ -8,6 +8,8 @@ https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/95c2
 <img width="349" alt="image" src="https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/d58a3d07-8b23-4366-bd31-8c8ccd205796">
 
 
+
+
 ![Uploading image.png…]()
 
 
