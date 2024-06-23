@@ -25,3 +25,22 @@ Hardware:
 
 <img width="584" alt="image" src="https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/6417309d-3698-4eec-afd8-2956333ae2be">
 
+
+Software (Code):
+In the making of this computer vision – Arduino project we have implemented several libraries using both the Arduino IDE and PyCharm. Below is the list of software used.
+
+
+
+Modules and libraries used in the PyCharm IDE:
+-	CV2
+-	Pyfirmata2
+-	MediaPipe
+-	Numpy
+-	Math
+Modules and libraries used in Arduino IDE:
+-	Servo 
+-	Wire
+-	Firmata
+
+![image](https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/a661a30d-51cb-4e74-ae7d-53352f43565d)
+
