@@ -8,16 +8,7 @@ https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/1fc2
 
 
 
-
-<img width="349" alt="image" src="https://github.com/xhr7/-Door-Control-Using-Hand-Gestures/assets/102740867/b6da7401-afc6-4f04-8346-2abc64e90eee">
-
-
-
-
-
-
-<img width="469" alt="image" src="https://github.com/xhr7/-Door-Control-Using-Hand-Gestures/assets/102740867/99a6d35c-ade7-4842-b6ed-0548e8ac5c91">
-
+<img width="349" alt="image" src="https://github.com/xhr7/-Door--Control-Using-Hand-Gestures/assets/102740867/0b6001cd-cbe2-44f6-974c-1a4351d6196e">
 
 
 
